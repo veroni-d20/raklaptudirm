@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
 </p>
-## Contact me
+<h4> Contact: </h4>
 <p>
   <a href="https://mailto:veronishwetha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/veroni-shwetha-0b7661193/"><img src="https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
