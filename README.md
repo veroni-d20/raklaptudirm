@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+  <img src="giphy.gif">
 </p>
 
 <h1 align="center"> 📊 Stats: </h1>
@@ -79,4 +79,9 @@
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
+</p>
+## Contact me
+<p>
+  <a href="https://mailto:veronishwetha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/veroni-shwetha-0b7661193/"><img src="https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
