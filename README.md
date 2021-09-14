@@ -28,9 +28,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=veroni-d20&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="">
-    <img src="https://activity-graph.herokuapp.com/graph?username=veroni-d20&theme=react-dark&hide_border=true">
-  </a>
 </p>
 
 <h1 align="center"> Skills & Tools: </h1>
@@ -83,7 +80,3 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
 </p>
-
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
-<a>
